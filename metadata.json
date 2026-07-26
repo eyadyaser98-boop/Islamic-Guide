@@ -1,0 +1,6 @@
+{
+  "name": "تطبيق المسلم - القرآن ومواقيت الصلاة",
+  "description": "تطبيق إسلامي شامل يضم القرآن الكريم كاملاً، مواقيت الصلاة بتوقيت مصر مع التنبيه بالأذان، الأذكار والمسبحة الإلكترونية، القبلة والتقويم الهجري.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
